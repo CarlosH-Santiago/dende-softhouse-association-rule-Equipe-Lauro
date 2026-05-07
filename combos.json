@@ -1,0 +1,57 @@
+[
+    {
+        "antecedente": [
+            "cueiro caricia x cm c un est. minasrey"
+        ],
+        "consequente": [
+            "babete c un x cm caricia minasrey"
+        ],
+        "suporte_vendas_juntas": 5,
+        "confianca": 1.0,
+        "lift": 226.9091
+    },
+    {
+        "antecedente": [
+            "babete c un x cm caricia minasrey"
+        ],
+        "consequente": [
+            "cueiro caricia x cm c un est. minasrey"
+        ],
+        "suporte_vendas_juntas": 5,
+        "confianca": 0.2273,
+        "lift": 226.9091
+    },
+    {
+        "antecedente": [
+            "sunga box turma do mar"
+        ],
+        "consequente": [
+            "camisa proteção uv + turma do mar"
+        ],
+        "suporte_vendas_juntas": 8,
+        "confianca": 0.5,
+        "lift": 118.8571
+    },
+    {
+        "antecedente": [
+            "camisa proteção uv + turma do mar"
+        ],
+        "consequente": [
+            "sunga box turma do mar"
+        ],
+        "suporte_vendas_juntas": 8,
+        "confianca": 0.381,
+        "lift": 118.8571
+    },
+    {
+        "antecedente": [
+            "body manga longa canelado mub"
+        ],
+        "consequente": [
+            "body manga curta canelado mub"
+        ],
+        "suporte_vendas_juntas": 8,
+        "confianca": 0.4211,
+        "lift": 110.626
+    }
+]
